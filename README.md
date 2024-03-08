@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheskapg" alt="cheskapg" /></a> </p>
 
-- 🔭 I’m currently working on **Tailwind and Android Applications**
+- 🔭 I’m currently working on **NextJs and NestJs Web Applications**
 
 - 💬 Ask me about **HTML, CSS, C#, JAVA**
 
