@@ -38,6 +38,7 @@
 **Tools & Utilities**  
 - Postman, Figma, Git, Azure DevOps  
 - Jira, Agile/Scrum practices, Photoshop
+- Automation (n8n)
 
 ---
 
