@@ -1,15 +1,61 @@
 <h1 align="center">Hi 👋, I'm NachoCheez</h1>
-<h3 align="center">An aspiring Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Francheska Palma Gil</h1>
+<h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cheskapg&label=Profile%20views&color=0e75b6&style=flat" alt="cheskapg" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cheskapg&label=Profile%20views&color=0e75b6&style=flat" alt="cheskapg" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheskapg" alt="cheskapg" /></a> </p>
+---
 
-- 🔭 I’m currently working on **NextJs and NestJs Web Applications**
+🔭 I’m currently working on scalable **Web Applications** using **Next.js**, **NestJS**, **TypeScript**, and cloud-native technologies.
 
-- 💬 Ask me about **HTML, CSS, C#, JAVA**
+🚀 I specialize in full stack development, DevOps pipelines, and building microservice architectures deployed on **AWS** and **Azure**.
 
-- 📫 How to reach me **cheskapg@gmail.com**
+🌱 I’m passionate about continuously learning and working on meaningful tech—particularly in **healthcare** systems, cloud deployments, and modern UI/UX workflows.
+
+💡 I’m confident with frontend frameworks, backend APIs, cloud deployments, and CI/CD processes.
+
+📫 Reach me at: **cheskapg@gmail.com**
+
+---
+
+<h3 align="left">🧰 Tech Stack</h3>
+
+**Languages & Frameworks**  
+- TypeScript, JavaScript, C#, Java, PHP, SQL  
+- React.js, Next.js, NestJS, Node.js  
+- HTML, CSS, Tailwind CSS  
+- .NET Core, Spring Boot  
+
+**Databases**  
+- PostgreSQL, Microsoft SQL Server, MySQL
+
+**DevOps & Cloud**  
+- Amazon Web Services (S3, EC2, Lambda)  
+- Microsoft Azure (App Services, DevOps, Pipelines)  
+- Docker, CI/CD Pipelines, GitHub Actions
+
+**Tools & Utilities**  
+- Postman, Figma, Git, Azure DevOps  
+- Jira, Agile/Scrum practices, Photoshop
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheskapg&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cheskapg&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cheskapg&" alt="GitHub Streak" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
