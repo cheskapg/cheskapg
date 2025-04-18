@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm NachoCheez</h1>
-<h1 align="center">Hi 👋, I'm Francheska Palma Gil</h1>
 <h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
@@ -41,21 +40,6 @@
 - Jira, Agile/Scrum practices, Photoshop
 
 ---
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheskapg&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cheskapg&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cheskapg&" alt="GitHub Streak" />
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
