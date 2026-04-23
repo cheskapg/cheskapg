@@ -49,8 +49,9 @@
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 
-<h4>Frontend</h4>
-<p>
+<p align="left">
+  <!-- Frontend -->
+  <strong>Frontend:</strong>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -63,10 +64,11 @@
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   </a>
-</p>
 
-<h4>Backend</h4>
-<p>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Backend -->
+  <strong>Backend:</strong>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -79,10 +81,11 @@
   <a href="https://www.php.net" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
   </a>
-</p>
 
-<h4>Languages</h4>
-<p>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Languages -->
+  <strong>Languages:</strong>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
@@ -92,31 +95,27 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-</p>
 
-<h4>Database</h4>
-<p>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Database -->
+  <strong>DB:</strong>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
   </a>
-</p>
 
-<h4>Tools & Others</h4>
-<p>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Tools -->
+  <strong>Tools:</strong>
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheskapg&show_icons=true&locale=en&layout=compact" alt="cheskapg" /></p>
