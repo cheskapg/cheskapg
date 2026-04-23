@@ -46,9 +46,10 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/30309679/cheez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cheskapg" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">🛠️ Languages & Tools</h3>
 
-<table>
+<table align ="center">
   <tr>
     <!-- Frontend -->
     <td align="center">
@@ -97,6 +98,9 @@
     </td>
   </tr>
 </table>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheskapg&show_icons=true&locale=en&layout=compact" alt="cheskapg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheskapg&show_icons=true&locale=en" alt="cheskapg" /></p>
