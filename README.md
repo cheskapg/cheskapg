@@ -49,10 +49,9 @@
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 
-<table align ="center">
+<table>
   <tr>
-    <!-- Frontend -->
-    <td align="center">
+    <td align="center" width="50%">
       <strong>Frontend</strong><br/>
       <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
       <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a>
@@ -60,8 +59,7 @@
       <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
     </td>
 
-    <!-- Backend -->
-    <td align="center">
+    <td align="center" width="50%">
       <strong>Backend</strong><br/>
       <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
       <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/></a>
@@ -71,8 +69,7 @@
   </tr>
 
   <tr>
-    <!-- Languages -->
-    <td align="center">
+    <td align="center" width="50%">
       <strong>Languages</strong><br/>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
       <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
@@ -80,8 +77,7 @@
       <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
     </td>
 
-    <!-- Database -->
-    <td align="center">
+    <td align="center" width="50%">
       <strong>Database</strong><br/>
       <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
       <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></a>
@@ -89,7 +85,6 @@
   </tr>
 
   <tr>
-    <!-- Centered Tools -->
     <td colspan="2" align="center">
       <strong>Tools</strong><br/>
       <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
@@ -98,7 +93,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheskapg&show_icons=true&locale=en&layout=compact" alt="cheskapg" /></p>
